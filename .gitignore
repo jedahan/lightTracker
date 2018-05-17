@@ -1,4 +1,5 @@
-Makefile
 obj
 bin
 example-contours-following.xcodeproj
+openFrameworks-Info.plist
+Project.xcconfig
